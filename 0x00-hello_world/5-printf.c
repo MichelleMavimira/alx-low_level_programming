@@ -6,7 +6,6 @@
  */
 int main(void)
 {
-printsf("with proper grammer, but the outcome is a piece of art,\n");
-
-return (0);
+	print("with proper grammer, but the outcome is a pieceof art,\n");
+	return (0);
 }
